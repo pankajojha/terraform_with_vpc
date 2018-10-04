@@ -1,1 +1,3 @@
 second/.terraform
+ecs/.terraform
+ecs/terraform.tfstate
